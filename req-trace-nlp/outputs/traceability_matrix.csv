@@ -1,0 +1,26 @@
+requirement_id,requirement_text,code_file,similarity_score,rank,predicted_link,actual_link
+REQ-01,"Users can create a new daily habit with a title, target frequency, and start date.",HabitRepository.kt,0.3518,1,True,True
+REQ-01,"Users can create a new daily habit with a title, target frequency, and start date.",ReminderScheduler.kt,0.098,2,False,False
+REQ-01,"Users can create a new daily habit with a title, target frequency, and start date.",NetworkConnectivityHelper.kt,0.0,3,False,False
+REQ-01,"Users can create a new daily habit with a title, target frequency, and start date.",ProfileSettingsFragment.kt,0.0,4,False,False
+REQ-01,"Users can create a new daily habit with a title, target frequency, and start date.",StreakCalculator.kt,0.0,5,False,False
+REQ-02,The app schedules a daily local reminder notification at a user-selected time.,ReminderScheduler.kt,0.2193,1,True,True
+REQ-02,The app schedules a daily local reminder notification at a user-selected time.,ProfileSettingsFragment.kt,0.0176,2,False,False
+REQ-02,The app schedules a daily local reminder notification at a user-selected time.,HabitRepository.kt,0.0,3,False,False
+REQ-02,The app schedules a daily local reminder notification at a user-selected time.,NetworkConnectivityHelper.kt,0.0,4,False,False
+REQ-02,The app schedules a daily local reminder notification at a user-selected time.,StreakCalculator.kt,0.0,5,False,False
+REQ-03,Users can mark a habit as completed for today and view their current streak count.,StreakCalculator.kt,0.2576,1,True,True
+REQ-03,Users can mark a habit as completed for today and view their current streak count.,HabitRepository.kt,0.0724,2,False,False
+REQ-03,Users can mark a habit as completed for today and view their current streak count.,ReminderScheduler.kt,0.0265,3,False,False
+REQ-03,Users can mark a habit as completed for today and view their current streak count.,NetworkConnectivityHelper.kt,0.0,4,False,False
+REQ-03,Users can mark a habit as completed for today and view their current streak count.,ProfileSettingsFragment.kt,0.0,5,False,False
+REQ-04,Users can filter or search saved items and update their profile settings.,ProfileSettingsFragment.kt,0.2059,1,True,True
+REQ-04,Users can filter or search saved items and update their profile settings.,HabitRepository.kt,0.0,2,False,False
+REQ-04,Users can filter or search saved items and update their profile settings.,NetworkConnectivityHelper.kt,0.0,3,False,False
+REQ-04,Users can filter or search saved items and update their profile settings.,ReminderScheduler.kt,0.0,4,False,False
+REQ-04,Users can filter or search saved items and update their profile settings.,StreakCalculator.kt,0.0,5,False,False
+REQ-05,The system persists habit records and completion logs locally so data survives restarts.,StreakCalculator.kt,0.1271,1,True,False
+REQ-05,The system persists habit records and completion logs locally so data survives restarts.,HabitRepository.kt,0.0635,2,False,True
+REQ-05,The system persists habit records and completion logs locally so data survives restarts.,ReminderScheduler.kt,0.0232,3,False,False
+REQ-05,The system persists habit records and completion logs locally so data survives restarts.,NetworkConnectivityHelper.kt,0.0,4,False,False
+REQ-05,The system persists habit records and completion logs locally so data survives restarts.,ProfileSettingsFragment.kt,0.0,5,False,False

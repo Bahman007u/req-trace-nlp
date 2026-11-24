@@ -1,0 +1,22 @@
+[
+  {
+    "id": "REQ-01",
+    "text": "Users can create a new daily habit with a title, target frequency, and start date."
+  },
+  {
+    "id": "REQ-02",
+    "text": "The app schedules a daily local reminder notification at a user-selected time."
+  },
+  {
+    "id": "REQ-03",
+    "text": "Users can mark a habit as completed for today and view their current streak count."
+  },
+  {
+    "id": "REQ-04",
+    "text": "Users can filter or search saved items and update their profile settings."
+  },
+  {
+    "id": "REQ-05",
+    "text": "The system persists habit records and completion logs locally so data survives restarts."
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "REQ-01": [
+    "HabitRepository.kt"
+  ],
+  "REQ-02": [
+    "ReminderScheduler.kt"
+  ],
+  "REQ-03": [
+    "StreakCalculator.kt"
+  ],
+  "REQ-04": [
+    "ProfileSettingsFragment.kt"
+  ],
+  "REQ-05": [
+    "HabitRepository.kt"
+  ]
+}
